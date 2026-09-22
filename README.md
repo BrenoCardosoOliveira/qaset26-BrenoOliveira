@@ -5,8 +5,8 @@
 **Project 1:** QA Test Documentation Management (Settings Test Suite)  
 **Author:** Breno Oliveira  
 **Repository:** [https://github.com/BrenoCardosoOliveira/qaset26-BrenoOliveira](https://github.com/BrenoCardosoOliveira/qaset26-BrenoOliveira)  
-**Screenshot - sprint 1** [https://docs.google.com/document/d/1qz92ufSb1jWB4yrTq6HcfvK1_dHzZiW65vTe23O_6ds/edit?usp=sharing]
-**Screenshot - sprint 2** [https://docs.google.com/document/d/1qz92ufSb1jWB4yrTq6HcfvK1_dHzZiW65vTe23O_6ds/edit?usp=sharing]
+**Screenshot - sprint 1:** [https://docs.google.com/document/d/1qz92ufSb1jWB4yrTq6HcfvK1_dHzZiW65vTe23O_6ds/edit?usp=sharing]  
+**Screenshot - sprint 2:** [https://docs.google.com/document/d/1qz92ufSb1jWB4yrTq6HcfvK1_dHzZiW65vTe23O_6ds/edit?usp=sharing]
 ---
 
 ## 📋 Project Description
@@ -112,7 +112,7 @@ git pull origin main
 
 > ![Step 7 - Git Checkout and Pull Main]
 
-
+---
 
 ## 🚀 Sprint 2: Steps Executed
 
