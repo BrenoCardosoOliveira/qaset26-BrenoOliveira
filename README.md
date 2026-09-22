@@ -3,7 +3,7 @@
 **Project:** Test Documentation Organization with Git  
 **Author:** Breno Oliveira  
 **Repository:** [https://github.com/BrenoCardosoOliveira/qaset26-BrenoOliveira](https://github.com/BrenoCardosoOliveira/qaset26-BrenoOliveira)  
-**Screenshot - sprint 1:**[https://docs.google.com/document/d/1wZCein4vBYPWrOa-RVb9VGOpIgdgogSQ3Y2YpgXo_H8/edit?usp=sharing]
+**Screenshot - sprint 1:**[https://docs.google.com/document/d/1wZCein4vBYPWrOa-RVb9VGOpIgdgogSQ3Y2YpgXo_H8/edit?usp=sharing]  
 **Screenshot - sprint 2:** [https://docs.google.com/document/d/1qz92ufSb1jWB4yrTq6HcfvK1_dHzZiW65vTe23O_6ds/edit?usp=sharing]
 ---
 
