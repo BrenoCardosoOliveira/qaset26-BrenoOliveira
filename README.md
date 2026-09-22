@@ -5,7 +5,7 @@
 **Project:** QA Test Documentation Management (Settings Test Suite)  
 **Author:** Breno Oliveira  
 **Repository:** [https://github.com/BrenoCardosoOliveira/qaset26-BrenoOliveira](https://github.com/BrenoCardosoOliveira/qaset26-BrenoOliveira)  
-**Screenshot**
+**Screenshot** [https://docs.google.com/document/d/1qz92ufSb1jWB4yrTq6HcfvK1_dHzZiW65vTe23O_6ds/edit?usp=sharing]
 ---
 
 ## 📋 Project Description
